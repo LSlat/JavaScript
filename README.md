@@ -1,2 +1,2 @@
 # JavaScript
-In a webpage, create UFO sightings table and filters for the data.
+Webpage with a UFO sightings table and multiple filters for the data.
